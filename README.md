@@ -1,6 +1,4 @@
-Certo\! Com base nas informações fornecidas e nas funcionalidades desenvolvidas, aqui está um `README.md` completo e bem estruturado para o seu repositório `projeto1-Api-Aprofunda`.
 
------
 
 # API de Gerenciamento de Tarefas
 
