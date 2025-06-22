@@ -50,7 +50,7 @@ const putTasks = router.put('/tasks/:id', (req, res) => {
     }
 
 
-    res.json({ message: `Texto com o ${id} editado com sucesso` });
+    res.json({ message: `Tarefa com o id ${id} editada com sucesso` });
 });
 
 const deleteTasks = router.delete('/tasks/:id', (req, res) => {
